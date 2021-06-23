@@ -1,0 +1,13 @@
+body{
+   font-family: 'Benne', serif;
+   font-family: 'Courgette', cursive;
+   text-align: center;
+   margin: 200px;
+   background:url("images/u.jpg") center fixed;
+   background-repeat: no-repeat;
+   background-size: 500px;
+   color: whitesmoke;
+}
+a{
+    color: tomato;
+}
